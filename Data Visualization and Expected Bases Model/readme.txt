@@ -1,0 +1,1 @@
+To run the code, go to https://www.kaggle.com/pschale/mlb-pitch-data-20152018 and download the files pitches.csv, player_names.csv and atbats.csv.
